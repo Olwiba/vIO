@@ -1,0 +1,31 @@
+# Source files
+src/
+tests/
+example/
+
+# Development files
+.github/
+.vscode/
+.idea/
+*.config.js
+*.config.ts
+tsconfig.json
+vitest.config.ts
+.eslintrc.*
+
+# Documentation (keep README.md)
+docs/
+*.md
+!README.md
+
+# Git files
+.git/
+.gitignore
+
+# CI files
+.travis.yml
+.circleci/
+.github/
+
+# Development dependencies already excluded by default
+# Only dist/, README.md, LICENSE, and package.json will be published
