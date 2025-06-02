@@ -1,5 +1,7 @@
 # vIO - viteImageOptimizer 🖼️
 
+![vIO](./vio.webp)
+
 > The lightning-fast Vite image optimizer that makes your images skinny and your builds snappy
 
 [![npm version](https://badge.fury.io/js/@olwiba%2Fvio.svg)](https://badge.fury.io/js/@olwiba%2Fvio)
