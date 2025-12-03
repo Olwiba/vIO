@@ -194,6 +194,6 @@ MIT © [Ollie Bannister](https://github.com/olwiba)
 
 ---
 
-**Made with ❤️ and lots of ☕**
+**Made with ☕**
 
 _If vIO saved you time and bandwidth, consider [sponsoring the project](https://github.com/sponsors/olwiba) or [buying me a coffee](https://buymeacoffee.com/olwiba)!_
