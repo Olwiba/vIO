@@ -1,4 +1,4 @@
-# vIO - viteImageOptimizer 🖼️
+# vIO - viteImageOptimizer
 
 ![vIO](./vio.webp)
 
@@ -10,7 +10,7 @@
 
 **vIO** is a zero-config Vite plugin that automatically optimizes your images during build time. It's fast, smart, and comes with delightful terminal output that actually makes you want to look at your build logs.
 
-## ✨ Features
+## Features
 
 - 🚀 **Zero Config** - Works out of the box with sensible defaults
 - 🖼️ **Multi-Format Support** - JPG, PNG, WebP, SVG, and GIF
@@ -21,7 +21,7 @@
 - 🌳 **Recursive Processing** - Handles nested directory structures
 - 📦 **Tiny Bundle** - Minimal footprint, maximum impact
 
-## 📈 Results That Matter
+## Results That Matter
 
 ```bash
 [12:34:56 PM] [vIO] 🖼️  Processing images...
@@ -66,7 +66,7 @@ export default defineConfig({
 
 That's it! Your images will be automatically optimized during build.
 
-## ⚙️ Configuration
+## Configuration
 
 ```typescript
 interface ViteImageOptimizerOptions {
@@ -107,7 +107,7 @@ viteImageOptimizer({
 });
 ```
 
-## 🎯 Smart Features
+## Smart Features
 
 ### Intelligent Caching
 
@@ -188,7 +188,7 @@ npm test
 npm run test:watch
 ```
 
-## 📄 License
+## License
 
 MIT © [Ollie Bannister](https://github.com/olwiba)
 
